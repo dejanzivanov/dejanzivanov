@@ -11,7 +11,7 @@ My name is Dejan Zivanov, and I am coming from Backend Developer background, at 
 | 5A  | FdF                                        | 🔒     |   | 5   | CPP Module 02 | 🔒     |   | 17  | Inception                      | 🔒      |
 | 5B  | [so_long](../../../42-so_long)             | ✅     |   | 6   | CPP Module 03 | 🔒     |   | 18  | ft_transcendence               | 🔒      |
 | 6A  | minitalk                                   | 🔒     |   | 7   | CPP Module 04 | 🔒     |   |     |                                |         |
-| 6B  | [pipex](../../../push_swap)             | 📝     |   | 8   | CPP Module 05 | 🔒     |   |     |                                |         |
+| 6B  | [pipex](../../../Push-Swap)                | 📝     |   | 8   | CPP Module 05 | 🔒     |   |     |                                |         |
 | 7   | [push_swap](../../../42-push_swap)         | 📝     |   | 9   | CPP Module 06 | 🔒     |   |     |                                |         |
 | 8   | minishell                                  | 🔒     |   | 10  | CPP Module 07 | 🔒     |   |     |                                |         |
 | 9   | Philosphers                                | 🔒     |   | 11  | CPP Module 08 | 🔒     |   |     |                                |         |
