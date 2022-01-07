@@ -13,8 +13,8 @@ My name is Dejan Zivanov, and I am coming from Backend Developer background, at 
 | 6   | minitalk                                   | 🔒     |   | 17  | CPP Module 04 | 🔒     |   |     |                                |         |
 | 7   | [pipex](../../../42-Pipex)                 | ✅     |   | 18  | CPP Module 05 | 🔒     |   |     |                                |         |
 | 8   | [push_swap](../../../Push-Swap)            | ✅     |   | 19  | CPP Module 06 | 🔒     |   |     |                                |         |
-| 9   | minishell                                  | 🔒     |   | 20  | CPP Module 07 | 🔒     |   |     |                                |         |
-| 10  | Philosphers                                | 📝     |   | 21  | CPP Module 08 | 🔒     |   |     |                                |         |
+| 9   | minishell                                  | 📝     |   | 20  | CPP Module 07 | 🔒     |   |     |                                |         |
+| 10  | [Philosophers](../../../42-Philosophers)   | ✅     |   | 21  | CPP Module 08 | 🔒     |   |     |                                |         |
 
 
 ## 📱 Connect With Me!
